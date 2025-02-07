@@ -34,10 +34,7 @@
 | **Offensive Security Wireless Professional (OSWP)** | Offensive Security             | 2025              | In Progress        |
 | **eLearnSecurity Junior Penetration Tester (eJPT)** | eLearnSecurity                 | 2025              | In Progress        |
 
-
-<div align="center">
-    <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
-</div>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ---
 
