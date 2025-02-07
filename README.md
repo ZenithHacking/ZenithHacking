@@ -26,14 +26,14 @@
 
 ### 🎓 **Pentesting Certifications** 🎓
 
-<div align="center">
-| **Certification**                             | **Issuing Organization**      | **Date Obtained** | **Status**         |
-|-----------------------------------------------|-------------------------------|-------------------|--------------------|
-| **Offensive Security Certified Professional (OSCP)** | Offensive Security             | 2025              | In Progress        |
-| **Certified Ethical Hacker (CEH)**            | EC-Council                    | 2025              | In Progress          |
-| **Offensive Security Wireless Professional (OSWP)** | Offensive Security             | 2025              | In Progress          |
-| **eLearnSecurity Junior Penetration Tester (eJPT)** | eLearnSecurity                 | 2025              | In Progress          |
-</div>
+
+| **Certification**                             | **Issuing Organization**      | **Date Obtained** | **Status**         |  |
+|-----------------------------------------------|-------------------------------|-------------------|--------------------|--|
+| **Offensive Security Certified Professional (OSCP)** | Offensive Security             | 2025              | In Progress        |  |
+| **Certified Ethical Hacker (CEH)**            | EC-Council                    | 2025              | In Progress        |  |
+| **Offensive Security Wireless Professional (OSWP)** | Offensive Security             | 2025              | In Progress        |  |
+| **eLearnSecurity Junior Penetration Tester (eJPT)** | eLearnSecurity                 | 2025              | In Progress        |  |
+
 
 <div align="center">
     <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
